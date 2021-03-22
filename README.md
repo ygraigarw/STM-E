@@ -1,7 +1,7 @@
 # STM-E
 STM-E (space-time maxima and exposure) model
 
-This repository accompanies the article
+This repository accompanies the following article
 
 Article
 
